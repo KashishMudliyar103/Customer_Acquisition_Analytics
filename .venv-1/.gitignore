@@ -1,0 +1,43 @@
+# Virtual environments
+.venv/
+venv/
+env/
+.venv-1/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data files — download from Kaggle directly
+Data/BankChurners.csv
+Data/BankChurners.csv.zip
+Data/credit_card.db
+
+# Power BI temp files
+*.pbix.bak
+
+# Logs
+*.log
+
+# Environment config
+pyvenv.cfg
+*.cfg
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
